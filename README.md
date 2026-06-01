@@ -6,7 +6,7 @@
 
   <img src="https://github.com/garrett/Tux/raw/refs/heads/main/tux.svg" alt="Tux the Penguin" width="180" />
 
-  # 🎨 Awesome Linux Ricing
+  # /home/filesdot/resources/lists
 
   > *Carefully curated list of awesome Linux customization resources*
 
