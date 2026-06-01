@@ -11,8 +11,8 @@
   > *Carefully curated list of awesome Linux customization resources*
 
   [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-  [![Last Updated](https://img.shields.io/badge/last_updated-June_2026-blue?style=flat)](https://github.com/avtzis/awesome-linux-ricing)
-  [![Contributors](https://img.shields.io/github/contributors/avtzis/awesome-linux-ricing?style=flat)](https://github.com/avtzis/awesome-linux-ricing/graphs/contributors)
+  [![Last Updated](https://img.shields.io/badge/last_updated-June_2026-blue?style=flat)](https://github.com/filesdot/resources)
+  [![Contributors](https://img.shields.io/github/contributors/filesdot/resources?style=flat)](https://github.com/filesdot/resources/graphs/contributors)
   [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 
@@ -855,8 +855,9 @@ We welcome all helpful contributions! 🙌
 
   This list exists because of contributors like you.  
   Found a broken link? Missing an awesome tool?  
-  [Open an Issue](https://github.com/avtzis/awesome-linux-ricing/issues) or [Submit a PR](https://github.com/avtzis/awesome-linux-ricing/pulls)!
+  [Open an Issue](https://github.com/filesdot/resources/issues) or [Submit a PR](https://github.com/filesdot/resources/pulls)!
 
-  <sub>Made with ❤️ by the Linux Ricing Community</sub>
+  <sub>Made with ❤️ by the Linux Ricing Community</sub></br>
+  <sub>🟡 filesdot community!11</sub>
 
 </div>
