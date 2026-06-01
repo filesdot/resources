@@ -131,7 +131,7 @@ sudo apt install kitty zsh starship neofetch feh compton polybar
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [🪟 Window Managers](#-window-manager)
+<!-- [🪟 Window Managers](#-window-manager)
   - [Stacking](#stacking)
   - [Tiling](#tiling)
   - [Dynamic](#dynamic)
@@ -181,6 +181,58 @@ sudo apt install kitty zsh starship neofetch feh compton polybar
 - [🛠️ Troubleshooting](#-troubleshooting) ✨ *NEW*
 - [📥 Installation & Configuration](#-installation--configuration)
 - [🤝 Contribution](#-contribution)
+-->
+
+- [🪟 Window Managers](#%F0%9F%AA%9F-window-managers)
+  - [Stacking](#stacking)
+  - [Tiling](#tiling)
+  - [Dynamic](#dynamic)
+  - [🔑 Quick Reference: WM Keyboard Shortcuts](#%F0%9F%94%A5-quick-reference-wm-keyboard-shortcuts)
+- [🎨 Color Schemes](#%F0%9F%8E%A8-color-schemes)
+  - [Utilities](#utilities)
+- [🖼️ Wallpapers](#%F0%9F%96%BC%EF%B8%8F-wallpapers)
+  - [Utilities](#utilities-1)
+- [🔤 Fonts](#%F0%9F%94%A4-fonts)
+  - [Sans-Serif](#sans-fonts)
+  - [Monospace](#monospace-fonts)
+  - [Nerd Fonts](#nerd-fonts)
+- [📊 Bars & Panels](#%F0%9F%93%8A-bars--panels)
+- [🖱️ Cursors](#%F0%9F%97%B1%EF%B8%8F-cursors)
+- [🎭 Icons](#%F0%9F%8E%AD-icons)
+- [🚀 Application Launchers](#%F0%9F%9A%80-application-launchers)
+- [🔔 Notifications](#%F0%9F%94%94-notifications)
+- [🧩 Widgets](#%F0%9F%A7%A9-widgets)
+- [🔒 Session Management](#%F0%9F%94%92-session-management)
+  - [Logout Menus](#logout-menu)
+  - [Screen Lockers](#screen-lock)
+- [💻 Terminal Ecosystem](#%F0%9F%92%BB-terminal-ecosystem)
+  - [Emulators](#emulator)
+  - [Shells](#shell)
+  - [Prompts](#prompt)
+  - [Multiplexers](#multiplexer)
+  - [CLI Tools](#tools)
+  - [✨ Terminal Eye Candy](#fancies)
+- [🖥️ GUI Applications](#%F0%9F%96%A5%EF%B8%8F-gui-applications)
+  - [Browsers](#web-browser)
+  - [File Managers](#file-manager-1)
+  - [Media](#media)
+  - [Productivity](#productivity)
+  - [Content Creation](#workstation---content-creation)
+  - [Gaming](#gaming)
+- [🎨 App Theming](#%F0%9F%8E%A8-app-theming)
+  - [Firefox](#firefox)
+  - [Spotify](#spotify)
+  - [Discord](#discord)
+  - [VS Code](#vscode)
+- [🔐 System Layer](#%F0%9F%94%90-system-layer)
+  - [Display Managers](#display-manager)
+  - [Bootloaders (GRUB)](#grub)
+  - [GTK/Qt Theming](#gtkqt-theming)
+- [📦 Dotfiles & Config Management](#%F0%9F%93%A6-dotfiles--config-management) ✨ *NEW*
+- [🌐 Communities & Resources](#%F0%9F%8C%90-communities--resources) ✨ *NEW*
+- [🛠️ Troubleshooting](#%F0%9F%92%A0-troubleshooting) ✨ *NEW*
+- [📥 Installation & Configuration](#%F0%9F%93%A5-installation--configuration)
+- [🤝 Contribution](#%F0%9F%A4%9D-contribution)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
